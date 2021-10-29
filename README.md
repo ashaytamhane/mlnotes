@@ -11,7 +11,7 @@ git clone https://github.com/ashaytamhane/mlnotes.git
 ### Notes
 
 ```
-www.yabds.com
+www.artificial-brain.com
 ```
 
 ## Author
