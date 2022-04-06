@@ -1,6 +1,6 @@
 ## Getting Started
 
-In general, the code here will be used to augment my blog yabds.com
+In general, the code here will be used to augment my blog artificial-brain.com
 
 ### Using the code
 
