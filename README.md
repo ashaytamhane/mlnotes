@@ -1,6 +1,6 @@
 ## Getting Started
 
-In general, the code here will be used to augment my blog artificial-brain.com
+This is a repo of my understanding of ML. Will include code, notes and other misc snippets of knowledge. Will use this repo to augment my blog www.artificial-brain.com
 
 ### Using the code
 
