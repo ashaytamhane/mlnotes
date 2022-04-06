@@ -1,6 +1,6 @@
 ## Getting Started
 
-This is a repo of my understanding of ML. Will include code, notes and other misc snippets of knowledge. Will use this repo to augment my blog www.artificial-brain.com
+This is my knowledge repo of ML and data based systems/architectures. Will include code, notes and other misc snippets of knowledge. Will use this repo to augment my blog www.artificial-brain.com
 
 ### Using the code
 
